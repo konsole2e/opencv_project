@@ -1,0 +1,14 @@
+#only source files are uploaded
+
+*.sdf
+*.sln
+*.suo
+
+/x64
+/Debug
+/cpptest
+
+/opencv_exercise/x64
+/opencv_exercise/Debug
+
+
