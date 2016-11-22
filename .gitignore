@@ -12,5 +12,6 @@ opencv_exercise/x64/
 opencv_exercise/Debug/
 opencv_exercise/*.vcxproj
 opencv_exercise/*.vcxproj.filters
+opencv_exercise/opencv_exercise.vcxproj
 
 
